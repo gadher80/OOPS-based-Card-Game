@@ -1,3 +1,8 @@
 # WARGame
 
-A game created using obejcted oriented programmning. Much fun with oops concepts.
+In this Python OOPS Project, different object oriented concepts are covered.
+
+1. Encapsulation
+2. Abstraction
+3. Inheritance
+4. Polymorphism
